@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="hello world">
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
@@ -17,7 +17,7 @@
       <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
       <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News & Letters</a></li>
     </ul>
     <h3>Ecosystem</h3>
     <ul>
